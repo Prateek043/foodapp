@@ -1,0 +1,4 @@
+PORT=5000
+MONGO_URL=mongodb+srv://R3LYcj2dIdyh2jEw:R3LYcj2dIdyh2jEw@cluster0.gleevit.mongodb.net/foodapp?retryWrites=true&w=majority
+ACCESS_TOKEN_SECRET=prateekkumarchaudhary
+JWT_TOKEN_EXPIRES_IN=30m
